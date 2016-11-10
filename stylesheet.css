@@ -17,10 +17,12 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: #00FF00;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: monospace;
+    font-size: 150%;
 }
 
 /* Change the link color to #111 (black) on hover */
